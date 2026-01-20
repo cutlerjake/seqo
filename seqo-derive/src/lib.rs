@@ -25,14 +25,19 @@ use expand_block_delta::expand_block_delta;
 ///         self.gold_grams / self.tonnage
 ///     }
 /// }
+///
+/// struct Ctx {
+///    cutoff_grade: f64,
+/// }
+///
 /// #[derive(Debug, Copy, Clone, Default, BlockDelta)]
-/// #[block_delta(block = GoldBlock)]
+/// #[block_delta(block = GoldBlock, context = Ctx)]
 /// struct GoldAggregateSummary {
-///     #[block_delta(if block.grade() >= 0.5 { block.gold_grams } else { 0.0 })]
+///     #[block_delta(if block.grade() >= ctx.cutoff_grade { block.gold_grams } else { 0.0 })]
 ///     total_gold_grams_to_mill: f64,
-///     #[block_delta(if block.grade() >= 0.5 { block.tonnage } else { 0.0 })]
+///     #[block_delta(if block.grade() >= ctx.cutoff_grade { block.tonnage } else { 0.0 })]
 ///     total_tonnage_to_mill: f64,
-///     #[block_delta(if block.grade() < 0.5 { block.tonnage } else { 0.0 })]
+///     #[block_delta(if block.grade() < ctx.cutoff_grade { block.tonnage } else { 0.0 })]
 ///     waste_tonnage: f64,
 /// }
 /// ```
@@ -41,20 +46,20 @@ use expand_block_delta::expand_block_delta;
 /// ```rust
 ///  impl GoldAggregateSummary {
 ///     #[inline(always)]
-///     pub fn add_block(&mut self, block: &GoldBlock) {
+///     pub fn add_block(&mut self, block: &GoldBlock, ctx: &Ctx) {
 ///         self.total_gold_grams_to_mill
-///             += if block.grade() >= 0.5 { block.gold_grams } else { 0.0 };
+///             += if block.grade() >= ctx.cutoff_grade { block.gold_grams } else { 0.0 };
 ///         self.total_tonnage_to_mill
-///             += if block.grade() >= 0.5 { block.tonnage } else { 0.0 };
-///         self.waste_tonnage += if block.grade() < 0.5 { block.tonnage } else { 0.0 };
+///             += if block.grade() >= ctx.cutoff_grade { block.tonnage } else { 0.0 };
+///         self.waste_tonnage += if block.grade() < ctx.cutoff_grade { block.tonnage } else { 0.0 };
 ///     }
 ///     #[inline(always)]
-///     pub fn sub_block(&mut self, block: &GoldBlock) {
+///     pub fn sub_block(&mut self, block: &GoldBlock, ctx: &Ctx) {
 ///         self.total_gold_grams_to_mill
-///             -= if block.grade() >= 0.5 { block.gold_grams } else { 0.0 };
+///             -= if block.grade() >= ctx.cutoff_grade { block.gold_grams } else { 0.0 };
 ///         self.total_tonnage_to_mill
-///             -= if block.grade() >= 0.5 { block.tonnage } else { 0.0 };
-///         self.waste_tonnage -= if block.grade() < 0.5 { block.tonnage } else { 0.0 };
+///             -= if block.grade() >= ctx.cutoff_grade { block.tonnage } else { 0.0 };
+///         self.waste_tonnage -= if block.grade() < ctx.cutoff_grade { block.tonnage } else { 0.0 };
 ///     }
 /// }
 /// ```
