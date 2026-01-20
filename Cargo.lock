@@ -501,10 +501,20 @@ dependencies = [
  "rayon",
  "rstar",
  "rustc-hash",
+ "seqo-derive",
  "serde",
  "serde_json",
  "uuid",
  "wide",
+]
+
+[[package]]
+name = "seqo-derive"
+version = "0.1.0"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn",
 ]
 
 [[package]]
