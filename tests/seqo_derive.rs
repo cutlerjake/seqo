@@ -19,17 +19,22 @@ impl GoldBlock {
     }
 }
 
+#[allow(unused)]
+struct Ctx {
+    cutoff_grade: f64,
+}
+
 #[derive(Debug, Copy, Clone, Default, BlockDelta)]
-#[block_delta(block = GoldBlock)]
+#[block_delta(block = GoldBlock, context = Ctx)]
 #[allow(unused)]
 struct GoldAggregateSummary {
     // Total gold in grams to be sent to the mill.
-    #[block_delta(if block.grade() >= 0.5 { block.gold_grams } else { 0.0 })]
+    #[block_delta(if block.grade() >= ctx.cutoff_grade { block.gold_grams } else { 0.0 })]
     total_gold_grams_to_mill: f64,
     // Total tonnage to be sent to the mill.
-    #[block_delta(if block.grade() >= 0.5 { block.tonnage } else { 0.0 })]
+    #[block_delta(if block.grade() >= ctx.cutoff_grade { block.tonnage } else { 0.0 })]
     total_tonnage_to_mill: f64,
     // Total waste tonnage.
-    #[block_delta(if block.grade() < 0.5 { block.tonnage } else { 0.0 })]
+    #[block_delta(if block.grade() < ctx.cutoff_grade { block.tonnage } else { 0.0 })]
     waste_tonnage: f64,
 }
