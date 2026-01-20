@@ -18,3 +18,4 @@ pub mod stockpile;
 pub mod walkers;
 
 pub use rayon;
+pub use seqo_derive;
