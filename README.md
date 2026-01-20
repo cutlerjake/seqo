@@ -24,7 +24,6 @@
  - **Block Type:**
    This should be a simple structure composed of the data stored in each block.
 
- Example:
  ```rust
  #[derive(Debug, Copy, Clone)]
  pub struct GoldBlock {
@@ -39,7 +38,6 @@
 
  - **Aggregate Summary:** A structure summarizing a flow of material for one period.
 
- Example:
  ```rust
  #[derive(Debug, Copy, Clone, Default)]
  pub struct GoldAggregateSummary {
@@ -55,7 +53,6 @@
  - **Period Summary:** A structure summarizing the state of the mine for multiple periods.
      - This structure must implement `BlockPerturbationSummary`, `GenericState`, and `GenericStateModifier` traits.
 
- Example:
  ```rust
  #[derive(Debug, Clone)]
  pub struct GoldPeriodSummary {
@@ -153,7 +150,6 @@
  - **Objective Function:** A structure implementing the `ObjectiveFunction` trait to evaluate
    the value of a provided state.
 
- Example:
  ```rust
  pub struct GoldObjectiveFunction {
      // Price of gold per gram.
@@ -197,7 +193,6 @@
 
  We are now ready to **optimize** a schedule using the `MultiMineScheduleOptimizer`.
 
- Example:
  ```rust
  // 1. Get the blocks (read from file, database, etc.)
  let blocks: Vec<GoldBlock> = vec![/* ... populate blocks ... */];
