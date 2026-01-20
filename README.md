@@ -1,3 +1,4 @@
+# SeqO
  Library for modelling and optimizing precedence constrained production
  scheduling problems, considering multiple mines, geometric constraints,
  uncertainty, and non-linear transfer functions.
