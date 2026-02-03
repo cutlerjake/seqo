@@ -103,14 +103,17 @@ fn generate_impl(
     });
 
     quote! {
-        impl #struct_name {
+        impl seqo::perturbation_summary::SinglePeriodSummary for #struct_name {
+            type Ctx = #ctx_ty;
+            type Block = #block_ty;
+
             #[inline(always)]
-            pub fn add_block(&mut self, block: &#block_ty, ctx: &#ctx_ty) {
+             fn add_block(&mut self, block: &#block_ty, ctx: &#ctx_ty) {
                 #(#add_stmts)*
             }
 
             #[inline(always)]
-            pub fn sub_block(&mut self, block: &#block_ty, ctx: &#ctx_ty) {
+             fn sub_block(&mut self, block: &#block_ty, ctx: &#ctx_ty) {
                 #(#sub_stmts)*
             }
         }

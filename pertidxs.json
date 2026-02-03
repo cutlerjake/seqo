@@ -1,0 +1,5854 @@
+[
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112054,
+        1
+      ]
+    },
+    "state_value": 292916699.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105304,
+        0
+      ]
+    },
+    "state_value": 417294309.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105327,
+        2
+      ]
+    },
+    "state_value": 513750480.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101268,
+        1
+      ]
+    },
+    "state_value": 569769289.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110810,
+        3
+      ]
+    },
+    "state_value": 624909342.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112611,
+        4
+      ]
+    },
+    "state_value": 661458303.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105394,
+        3
+      ]
+    },
+    "state_value": 696964331.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112600,
+        4
+      ]
+    },
+    "state_value": 726443982.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93704,
+        0
+      ]
+    },
+    "state_value": 753436095.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99095,
+        5
+      ]
+    },
+    "state_value": 774796777.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109433,
+        5
+      ]
+    },
+    "state_value": 791290446.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108167,
+        2
+      ]
+    },
+    "state_value": 805881145.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103669,
+        3
+      ]
+    },
+    "state_value": 818571517.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103614,
+        4
+      ]
+    },
+    "state_value": 829603641.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96219,
+        6
+      ]
+    },
+    "state_value": 836820820.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111743,
+        5
+      ]
+    },
+    "state_value": 844004083.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105313,
+        5
+      ]
+    },
+    "state_value": 851176963.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72429,
+        1
+      ]
+    },
+    "state_value": 857809390.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86673,
+        4
+      ]
+    },
+    "state_value": 863134344.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101775,
+        6
+      ]
+    },
+    "state_value": 868315886.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        50396,
+        5
+      ]
+    },
+    "state_value": 873071425.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106727,
+        6
+      ]
+    },
+    "state_value": 877700390.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101049,
+        7
+      ]
+    },
+    "state_value": 882235485.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110835,
+        5
+      ]
+    },
+    "state_value": 886562661.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99283,
+        5
+      ]
+    },
+    "state_value": 890809929.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107105,
+        6
+      ]
+    },
+    "state_value": 894561687.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111330,
+        5
+      ]
+    },
+    "state_value": 898083312.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        88435,
+        7
+      ]
+    },
+    "state_value": 901421020.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105383,
+        7
+      ]
+    },
+    "state_value": 904585323.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82683,
+        6
+      ]
+    },
+    "state_value": 907687399.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106807,
+        7
+      ]
+    },
+    "state_value": 910739263.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93708,
+        7
+      ]
+    },
+    "state_value": 913763194.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109239,
+        5
+      ]
+    },
+    "state_value": 916583466.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49048,
+        1
+      ]
+    },
+    "state_value": 919287129.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103298,
+        3
+      ]
+    },
+    "state_value": 921976941.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110153,
+        6
+      ]
+    },
+    "state_value": 924657482.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        81910,
+        7
+      ]
+    },
+    "state_value": 927238996.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90242,
+        6
+      ]
+    },
+    "state_value": 929670665.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110142,
+        7
+      ]
+    },
+    "state_value": 932049456.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        92959,
+        6
+      ]
+    },
+    "state_value": 934407547.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93352,
+        6
+      ]
+    },
+    "state_value": 936684215.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86677,
+        6
+      ]
+    },
+    "state_value": 938638737.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49081,
+        7
+      ]
+    },
+    "state_value": 940562760.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99492,
+        6
+      ]
+    },
+    "state_value": 942410602.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107645,
+        6
+      ]
+    },
+    "state_value": 944229094.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103951,
+        7
+      ]
+    },
+    "state_value": 945931255.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109367,
+        6
+      ]
+    },
+    "state_value": 947629054.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        5982,
+        2
+      ]
+    },
+    "state_value": 949288022.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37413,
+        6
+      ]
+    },
+    "state_value": 950902726.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108486,
+        6
+      ]
+    },
+    "state_value": 952413170.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111335,
+        6
+      ]
+    },
+    "state_value": 953899302.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        81919,
+        7
+      ]
+    },
+    "state_value": 955345540.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49082,
+        4
+      ]
+    },
+    "state_value": 956804206.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101435,
+        6
+      ]
+    },
+    "state_value": 958247711.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37480,
+        6
+      ]
+    },
+    "state_value": 959624056.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106826,
+        7
+      ]
+    },
+    "state_value": 960919266.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        68084,
+        6
+      ]
+    },
+    "state_value": 962157176.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        104136,
+        7
+      ]
+    },
+    "state_value": 963333110.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110154,
+        6
+      ]
+    },
+    "state_value": 964507031.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90388,
+        6
+      ]
+    },
+    "state_value": 965676522.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93463,
+        6
+      ]
+    },
+    "state_value": 966809023.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        55372,
+        6
+      ]
+    },
+    "state_value": 967939437.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86799,
+        6
+      ]
+    },
+    "state_value": 969064406.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86662,
+        7
+      ]
+    },
+    "state_value": 970181987.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112445,
+        6
+      ]
+    },
+    "state_value": 971266860.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44086,
+        7
+      ]
+    },
+    "state_value": 972326174.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        88859,
+        6
+      ]
+    },
+    "state_value": 973379367.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112319,
+        7
+      ]
+    },
+    "state_value": 974374045.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        75758,
+        6
+      ]
+    },
+    "state_value": 975329887.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        43931,
+        6
+      ]
+    },
+    "state_value": 976259848.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        98715,
+        6
+      ]
+    },
+    "state_value": 977175978.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108001,
+        7
+      ]
+    },
+    "state_value": 978089223.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112625,
+        6
+      ]
+    },
+    "state_value": 978939690.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82326,
+        6
+      ]
+    },
+    "state_value": 979743844.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109270,
+        7
+      ]
+    },
+    "state_value": 980545462.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109961,
+        6
+      ]
+    },
+    "state_value": 981309674.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108101,
+        6
+      ]
+    },
+    "state_value": 982054275.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72354,
+        7
+      ]
+    },
+    "state_value": 982793431.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101295,
+        6
+      ]
+    },
+    "state_value": 983500082.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107221,
+        6
+      ]
+    },
+    "state_value": 984201645.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108294,
+        6
+      ]
+    },
+    "state_value": 984894529.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86689,
+        7
+      ]
+    },
+    "state_value": 985575961.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93766,
+        7
+      ]
+    },
+    "state_value": 986253847.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        98471,
+        7
+      ]
+    },
+    "state_value": 986926711.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103598,
+        7
+      ]
+    },
+    "state_value": 987543774.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99273,
+        7
+      ]
+    },
+    "state_value": 988158523.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93706,
+        6
+      ]
+    },
+    "state_value": 988765889.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49005,
+        6
+      ]
+    },
+    "state_value": 989360858.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73306,
+        7
+      ]
+    },
+    "state_value": 989943336.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101607,
+        7
+      ]
+    },
+    "state_value": 990524526.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83868,
+        6
+      ]
+    },
+    "state_value": 991092259.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103569,
+        7
+      ]
+    },
+    "state_value": 991633886.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        56646,
+        7
+      ]
+    },
+    "state_value": 992157420.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110083,
+        7
+      ]
+    },
+    "state_value": 992668757.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109312,
+        7
+      ]
+    },
+    "state_value": 993164644.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112496,
+        7
+      ]
+    },
+    "state_value": 993642775.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        9018,
+        7
+      ]
+    },
+    "state_value": 994117245.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106773,
+        7
+      ]
+    },
+    "state_value": 994577811.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        79087,
+        7
+      ]
+    },
+    "state_value": 995034931.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106850,
+        7
+      ]
+    },
+    "state_value": 995482225.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90386,
+        7
+      ]
+    },
+    "state_value": 995917341.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99401,
+        7
+      ]
+    },
+    "state_value": 996351083.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103646,
+        7
+      ]
+    },
+    "state_value": 996802446.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72468,
+        7
+      ]
+    },
+    "state_value": 997234696.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        56603,
+        7
+      ]
+    },
+    "state_value": 997666640.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        55296,
+        7
+      ]
+    },
+    "state_value": 998093240.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112667,
+        7
+      ]
+    },
+    "state_value": 998512035.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16282,
+        7
+      ]
+    },
+    "state_value": 998926577.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25067,
+        7
+      ]
+    },
+    "state_value": 999325178.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112640,
+        7
+      ]
+    },
+    "state_value": 999723585.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        29389,
+        5
+      ]
+    },
+    "state_value": 1000114955.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99516,
+        6
+      ]
+    },
+    "state_value": 1000524862.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103629,
+        7
+      ]
+    },
+    "state_value": 1000912019.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        89891,
+        3
+      ]
+    },
+    "state_value": 1001254984.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108237,
+        7
+      ]
+    },
+    "state_value": 1001597453.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82583,
+        7
+      ]
+    },
+    "state_value": 1001935297.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        104084,
+        7
+      ]
+    },
+    "state_value": 1002271534.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72450,
+        7
+      ]
+    },
+    "state_value": 1002603167.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        24957,
+        7
+      ]
+    },
+    "state_value": 1002928526.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        35867,
+        0
+      ]
+    },
+    "state_value": 1003249444.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        88609,
+        7
+      ]
+    },
+    "state_value": 1003567335.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99103,
+        7
+      ]
+    },
+    "state_value": 1003883474.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86087,
+        4
+      ]
+    },
+    "state_value": 1004197759.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96655,
+        7
+      ]
+    },
+    "state_value": 1004511951.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99087,
+        7
+      ]
+    },
+    "state_value": 1004813925.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103154,
+        7
+      ]
+    },
+    "state_value": 1005109386.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111336,
+        7
+      ]
+    },
+    "state_value": 1005398470.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25196,
+        7
+      ]
+    },
+    "state_value": 1005686064.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109386,
+        7
+      ]
+    },
+    "state_value": 1005967163.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112520,
+        7
+      ]
+    },
+    "state_value": 1006245989.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86783,
+        7
+      ]
+    },
+    "state_value": 1006509500.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96650,
+        7
+      ]
+    },
+    "state_value": 1006768270.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49059,
+        7
+      ]
+    },
+    "state_value": 1007022350.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        95145,
+        7
+      ]
+    },
+    "state_value": 1007273365.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86527,
+        7
+      ]
+    },
+    "state_value": 1007517708.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93693,
+        7
+      ]
+    },
+    "state_value": 1007752298.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        42380,
+        2
+      ]
+    },
+    "state_value": 1007984149.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106649,
+        6
+      ]
+    },
+    "state_value": 1008269036.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        66660,
+        7
+      ]
+    },
+    "state_value": 1008500234.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97645,
+        7
+      ]
+    },
+    "state_value": 1008727521.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97480,
+        7
+      ]
+    },
+    "state_value": 1008947987.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105880,
+        7
+      ]
+    },
+    "state_value": 1009153004.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90979,
+        7
+      ]
+    },
+    "state_value": 1009357659.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96130,
+        7
+      ]
+    },
+    "state_value": 1009559598.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37388,
+        7
+      ]
+    },
+    "state_value": 1009759184.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110861,
+        7
+      ]
+    },
+    "state_value": 1009951833.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        98221,
+        7
+      ]
+    },
+    "state_value": 1010140617.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108332,
+        7
+      ]
+    },
+    "state_value": 1010327712.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        65380,
+        7
+      ]
+    },
+    "state_value": 1010512325.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110807,
+        7
+      ]
+    },
+    "state_value": 1010694079.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72301,
+        7
+      ]
+    },
+    "state_value": 1010870039.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        23553,
+        6
+      ]
+    },
+    "state_value": 1011044791.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110102,
+        7
+      ]
+    },
+    "state_value": 1011218576.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111111,
+        7
+      ]
+    },
+    "state_value": 1011391692.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31081,
+        3
+      ]
+    },
+    "state_value": 1011562546.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96682,
+        7
+      ]
+    },
+    "state_value": 1011730761.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109352,
+        7
+      ]
+    },
+    "state_value": 1011895784.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96191,
+        7
+      ]
+    },
+    "state_value": 1012055873.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108094,
+        7
+      ]
+    },
+    "state_value": 1012215849.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108065,
+        7
+      ]
+    },
+    "state_value": 1012370491.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31102,
+        7
+      ]
+    },
+    "state_value": 1012524192.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103714,
+        7
+      ]
+    },
+    "state_value": 1012676799.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109240,
+        7
+      ]
+    },
+    "state_value": 1012827309.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        70682,
+        7
+      ]
+    },
+    "state_value": 1012975975.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109941,
+        7
+      ]
+    },
+    "state_value": 1013122408.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97416,
+        7
+      ]
+    },
+    "state_value": 1013266103.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110162,
+        7
+      ]
+    },
+    "state_value": 1013409439.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        92883,
+        7
+      ]
+    },
+    "state_value": 1013552187.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        42479,
+        7
+      ]
+    },
+    "state_value": 1013693744.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86641,
+        7
+      ]
+    },
+    "state_value": 1013830960.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110801,
+        7
+      ]
+    },
+    "state_value": 1013964526.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16152,
+        7
+      ]
+    },
+    "state_value": 1014098029.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103601,
+        7
+      ]
+    },
+    "state_value": 1014230841.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        9078,
+        7
+      ]
+    },
+    "state_value": 1014363254.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108509,
+        7
+      ]
+    },
+    "state_value": 1014495580.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78881,
+        7
+      ]
+    },
+    "state_value": 1014627614.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82702,
+        7
+      ]
+    },
+    "state_value": 1014758995.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72440,
+        4
+      ]
+    },
+    "state_value": 1014887627.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        98292,
+        7
+      ]
+    },
+    "state_value": 1015014784.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105365,
+        7
+      ]
+    },
+    "state_value": 1015137925.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108373,
+        7
+      ]
+    },
+    "state_value": 1015260816.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101522,
+        7
+      ]
+    },
+    "state_value": 1015382568.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101633,
+        7
+      ]
+    },
+    "state_value": 1015501722.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112630,
+        7
+      ]
+    },
+    "state_value": 1015620727.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99112,
+        7
+      ]
+    },
+    "state_value": 1015739604.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        56622,
+        7
+      ]
+    },
+    "state_value": 1015858278.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112661,
+        7
+      ]
+    },
+    "state_value": 1015976629.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112654,
+        7
+      ]
+    },
+    "state_value": 1016260675.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112490,
+        7
+      ]
+    },
+    "state_value": 1016406858.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112636,
+        7
+      ]
+    },
+    "state_value": 1016540649.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72851,
+        7
+      ]
+    },
+    "state_value": 1016657126.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109306,
+        7
+      ]
+    },
+    "state_value": 1016772073.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106913,
+        7
+      ]
+    },
+    "state_value": 1016885872.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        59799,
+        7
+      ]
+    },
+    "state_value": 1016998109.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86666,
+        7
+      ]
+    },
+    "state_value": 1017109310.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90378,
+        7
+      ]
+    },
+    "state_value": 1017220510.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        12474,
+        7
+      ]
+    },
+    "state_value": 1017331347.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        106744,
+        7
+      ]
+    },
+    "state_value": 1017439367.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72880,
+        7
+      ]
+    },
+    "state_value": 1017546070.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111752,
+        7
+      ]
+    },
+    "state_value": 1017651010.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107245,
+        7
+      ]
+    },
+    "state_value": 1017755715.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        23606,
+        7
+      ]
+    },
+    "state_value": 1017859086.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        100917,
+        7
+      ]
+    },
+    "state_value": 1017960883.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        50407,
+        7
+      ]
+    },
+    "state_value": 1018062492.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108510,
+        7
+      ]
+    },
+    "state_value": 1018164092.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103521,
+        7
+      ]
+    },
+    "state_value": 1018265655.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108223,
+        7
+      ]
+    },
+    "state_value": 1018366794.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109313,
+        7
+      ]
+    },
+    "state_value": 1018478698.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        102098,
+        7
+      ]
+    },
+    "state_value": 1018579111.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108395,
+        7
+      ]
+    },
+    "state_value": 1018677841.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        42429,
+        7
+      ]
+    },
+    "state_value": 1018776089.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99266,
+        7
+      ]
+    },
+    "state_value": 1018873905.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        3831,
+        7
+      ]
+    },
+    "state_value": 1018971087.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        2622,
+        8
+      ]
+    },
+    "state_value": 1019061760.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        808,
+        8
+      ]
+    },
+    "state_value": 1019160113.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73263,
+        7
+      ]
+    },
+    "state_value": 1019256570.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108316,
+        7
+      ]
+    },
+    "state_value": 1019352221.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96746,
+        7
+      ]
+    },
+    "state_value": 1019445332.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90361,
+        7
+      ]
+    },
+    "state_value": 1019534055.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103124,
+        7
+      ]
+    },
+    "state_value": 1019617149.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78151,
+        4
+      ]
+    },
+    "state_value": 1019694323.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        35849,
+        2
+      ]
+    },
+    "state_value": 1019770968.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        85805,
+        1
+      ]
+    },
+    "state_value": 1019845791.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103299,
+        6
+      ]
+    },
+    "state_value": 1019965295.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57692,
+        8
+      ]
+    },
+    "state_value": 1020025222.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105355,
+        7
+      ]
+    },
+    "state_value": 1020117970.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        43908,
+        7
+      ]
+    },
+    "state_value": 1020210478.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99863,
+        7
+      ]
+    },
+    "state_value": 1020302488.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        85907,
+        7
+      ]
+    },
+    "state_value": 1020392436.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86051,
+        7
+      ]
+    },
+    "state_value": 1020477668.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        62844,
+        8
+      ]
+    },
+    "state_value": 1020517930.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107269,
+        7
+      ]
+    },
+    "state_value": 1020597560.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103350,
+        7
+      ]
+    },
+    "state_value": 1020673726.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90889,
+        8
+      ]
+    },
+    "state_value": 1020713328.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107098,
+        6
+      ]
+    },
+    "state_value": 1020823782.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        55271,
+        7
+      ]
+    },
+    "state_value": 1020900937.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        102069,
+        7
+      ]
+    },
+    "state_value": 1020977104.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25512,
+        8
+      ]
+    },
+    "state_value": 1021014054.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37541,
+        3
+      ]
+    },
+    "state_value": 1021148490.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90360,
+        3
+      ]
+    },
+    "state_value": 1021264921.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49027,
+        6
+      ]
+    },
+    "state_value": 1021352038.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73360,
+        4
+      ]
+    },
+    "state_value": 1021421050.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        4272,
+        8
+      ]
+    },
+    "state_value": 1021454213.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        9003,
+        1
+      ]
+    },
+    "state_value": 1021483138.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        8569,
+        2
+      ]
+    },
+    "state_value": 1021504754.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37927,
+        7
+      ]
+    },
+    "state_value": 1021525485.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        63610,
+        8
+      ]
+    },
+    "state_value": 1021544536.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51556,
+        8
+      ]
+    },
+    "state_value": 1021561470.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        30128,
+        8
+      ]
+    },
+    "state_value": 1021578262.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        42520,
+        5
+      ]
+    },
+    "state_value": 1021712541.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72447,
+        7
+      ]
+    },
+    "state_value": 1021786494.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        62607,
+        4
+      ]
+    },
+    "state_value": 1021802634.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72627,
+        8
+      ]
+    },
+    "state_value": 1021818637.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101242,
+        7
+      ]
+    },
+    "state_value": 1021895199.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        50653,
+        8
+      ]
+    },
+    "state_value": 1021909174.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78599,
+        8
+      ]
+    },
+    "state_value": 1021922029.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90353,
+        7
+      ]
+    },
+    "state_value": 1021995598.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        95923,
+        7
+      ]
+    },
+    "state_value": 1022068734.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        1447,
+        8
+      ]
+    },
+    "state_value": 1022081435.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        373,
+        8
+      ]
+    },
+    "state_value": 1022092759.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        15498,
+        8
+      ]
+    },
+    "state_value": 1022103858.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82038,
+        8
+      ]
+    },
+    "state_value": 1022112658.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        9783,
+        8
+      ]
+    },
+    "state_value": 1022120419.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        30998,
+        8
+      ]
+    },
+    "state_value": 1022127475.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        18138,
+        8
+      ]
+    },
+    "state_value": 1022134531.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86061,
+        8
+      ]
+    },
+    "state_value": 1022141271.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        21727,
+        0
+      ]
+    },
+    "state_value": 1022195326.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111716,
+        4
+      ]
+    },
+    "state_value": 1022243108.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78559,
+        7
+      ]
+    },
+    "state_value": 1022249003.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        52363,
+        8
+      ]
+    },
+    "state_value": 1022254777.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107144,
+        6
+      ]
+    },
+    "state_value": 1022350468.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        319,
+        8
+      ]
+    },
+    "state_value": 1022356151.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        56902,
+        8
+      ]
+    },
+    "state_value": 1022361796.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51469,
+        8
+      ]
+    },
+    "state_value": 1022367441.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38450,
+        8
+      ]
+    },
+    "state_value": 1022372934.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57573,
+        8
+      ]
+    },
+    "state_value": 1022378281.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37532,
+        7
+      ]
+    },
+    "state_value": 1022441619.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        81948,
+        8
+      ]
+    },
+    "state_value": 1022446699.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83333,
+        5
+      ]
+    },
+    "state_value": 1022451719.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44610,
+        6
+      ]
+    },
+    "state_value": 1022456068.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        87222,
+        8
+      ]
+    },
+    "state_value": 1022459949.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57573,
+        2
+      ]
+    },
+    "state_value": 1022463509.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78728,
+        8
+      ]
+    },
+    "state_value": 1022467037.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57894,
+        8
+      ]
+    },
+    "state_value": 1022470565.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78976,
+        8
+      ]
+    },
+    "state_value": 1022474071.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        48841,
+        7
+      ]
+    },
+    "state_value": 1022545011.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90898,
+        8
+      ]
+    },
+    "state_value": 1022548539.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16713,
+        8
+      ]
+    },
+    "state_value": 1022551644.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82754,
+        8
+      ]
+    },
+    "state_value": 1022554466.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        1402,
+        8
+      ]
+    },
+    "state_value": 1022557289.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        42280,
+        8
+      ]
+    },
+    "state_value": 1022560111.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        6676,
+        8
+      ]
+    },
+    "state_value": 1022562933.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57978,
+        8
+      ]
+    },
+    "state_value": 1022565745.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        112528,
+        7
+      ]
+    },
+    "state_value": 1022628489.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        89933,
+        8
+      ]
+    },
+    "state_value": 1022631239.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44630,
+        5
+      ]
+    },
+    "state_value": 1022633929.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        615,
+        6
+      ]
+    },
+    "state_value": 1022636525.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44435,
+        6
+      ]
+    },
+    "state_value": 1022639094.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25497,
+        8
+      ]
+    },
+    "state_value": 1022641661.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        63228,
+        8
+      ]
+    },
+    "state_value": 1022644029.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        50357,
+        7
+      ]
+    },
+    "state_value": 1022714096.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44976,
+        5
+      ]
+    },
+    "state_value": 1022716427.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        68753,
+        8
+      ]
+    },
+    "state_value": 1022718755.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94135,
+        8
+      ]
+    },
+    "state_value": 1022721014.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31629,
+        8
+      ]
+    },
+    "state_value": 1022723131.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        35405,
+        8
+      ]
+    },
+    "state_value": 1022725247.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        61612,
+        8
+      ]
+    },
+    "state_value": 1022727364.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        4199,
+        8
+      ]
+    },
+    "state_value": 1022729481.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        6818,
+        8
+      ]
+    },
+    "state_value": 1022731598.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90529,
+        8
+      ]
+    },
+    "state_value": 1022733664.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16844,
+        8
+      ]
+    },
+    "state_value": 1022735492.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108147,
+        7
+      ]
+    },
+    "state_value": 1022825412.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97481,
+        7
+      ]
+    },
+    "state_value": 1022886857.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        4047,
+        8
+      ]
+    },
+    "state_value": 1022900743.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        4020,
+        8
+      ]
+    },
+    "state_value": 1022913712.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        6329,
+        8
+      ]
+    },
+    "state_value": 1022916534.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        9452,
+        8
+      ]
+    },
+    "state_value": 1022919357.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99578,
+        8
+      ]
+    },
+    "state_value": 1022921166.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        24151,
+        8
+      ]
+    },
+    "state_value": 1022922873.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        61397,
+        7
+      ]
+    },
+    "state_value": 1022924506.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90937,
+        5
+      ]
+    },
+    "state_value": 1022926120.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        77348,
+        8
+      ]
+    },
+    "state_value": 1022927686.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94750,
+        8
+      ]
+    },
+    "state_value": 1022929238.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82945,
+        6
+      ]
+    },
+    "state_value": 1022930779.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72344,
+        8
+      ]
+    },
+    "state_value": 1022932280.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        27432,
+        0
+      ]
+    },
+    "state_value": 1023001664.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44093,
+        4
+      ]
+    },
+    "state_value": 1023058551.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        18370,
+        4
+      ]
+    },
+    "state_value": 1023060730.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31011,
+        8
+      ]
+    },
+    "state_value": 1023062201.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        69202,
+        5
+      ]
+    },
+    "state_value": 1023063636.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        48320,
+        8
+      ]
+    },
+    "state_value": 1023065047.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        62819,
+        8
+      ]
+    },
+    "state_value": 1023066458.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        17640,
+        8
+      ]
+    },
+    "state_value": 1023067870.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38158,
+        8
+      ]
+    },
+    "state_value": 1023069281.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86794,
+        8
+      ]
+    },
+    "state_value": 1023070692.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        2650,
+        8
+      ]
+    },
+    "state_value": 1023072103.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49116,
+        8
+      ]
+    },
+    "state_value": 1023073514.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25513,
+        8
+      ]
+    },
+    "state_value": 1023074919.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        85972,
+        7
+      ]
+    },
+    "state_value": 1023076294.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        87250,
+        7
+      ]
+    },
+    "state_value": 1023077624.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        2220,
+        6
+      ]
+    },
+    "state_value": 1023078941.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        77362,
+        4
+      ]
+    },
+    "state_value": 1023080249.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73766,
+        6
+      ]
+    },
+    "state_value": 1023081533.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83271,
+        5
+      ]
+    },
+    "state_value": 1023082608.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51036,
+        5
+      ]
+    },
+    "state_value": 1023083684.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31487,
+        6
+      ]
+    },
+    "state_value": 1023084750.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        61280,
+        5
+      ]
+    },
+    "state_value": 1023085792.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        3770,
+        0
+      ]
+    },
+    "state_value": 1023086707.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        81894,
+        4
+      ]
+    },
+    "state_value": 1023087602.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86252,
+        8
+      ]
+    },
+    "state_value": 1023088456.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90030,
+        8
+      ]
+    },
+    "state_value": 1023089310.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        19629,
+        8
+      ]
+    },
+    "state_value": 1023090164.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82082,
+        8
+      ]
+    },
+    "state_value": 1023091018.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        61698,
+        8
+      ]
+    },
+    "state_value": 1023091871.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        89993,
+        8
+      ]
+    },
+    "state_value": 1023092725.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51205,
+        4
+      ]
+    },
+    "state_value": 1023093570.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101839,
+        8
+      ]
+    },
+    "state_value": 1023094346.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101823,
+        8
+      ]
+    },
+    "state_value": 1023095122.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44518,
+        6
+      ]
+    },
+    "state_value": 1023095893.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31000,
+        8
+      ]
+    },
+    "state_value": 1023096659.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38317,
+        4
+      ]
+    },
+    "state_value": 1023097410.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86851,
+        8
+      ]
+    },
+    "state_value": 1023098115.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107366,
+        8
+      ]
+    },
+    "state_value": 1023098821.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        89951,
+        8
+      ]
+    },
+    "state_value": 1023099526.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86830,
+        8
+      ]
+    },
+    "state_value": 1023100232.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        22972,
+        8
+      ]
+    },
+    "state_value": 1023100938.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        9431,
+        8
+      ]
+    },
+    "state_value": 1023101643.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37497,
+        8
+      ]
+    },
+    "state_value": 1023102349.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        2637,
+        8
+      ]
+    },
+    "state_value": 1023103054.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        109941,
+        8
+      ]
+    },
+    "state_value": 1023103760.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90510,
+        8
+      ]
+    },
+    "state_value": 1023104466.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        59575,
+        8
+      ]
+    },
+    "state_value": 1023105171.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        827,
+        8
+      ]
+    },
+    "state_value": 1023105877.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        56858,
+        8
+      ]
+    },
+    "state_value": 1023106582.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83087,
+        8
+      ]
+    },
+    "state_value": 1023107288.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93785,
+        8
+      ]
+    },
+    "state_value": 1023107994.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        1359,
+        8
+      ]
+    },
+    "state_value": 1023108699.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        62778,
+        8
+      ]
+    },
+    "state_value": 1023109405.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83419,
+        8
+      ]
+    },
+    "state_value": 1023110110.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        62779,
+        8
+      ]
+    },
+    "state_value": 1023110816.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57721,
+        8
+      ]
+    },
+    "state_value": 1023111521.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        110054,
+        8
+      ]
+    },
+    "state_value": 1023112227.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        55485,
+        8
+      ]
+    },
+    "state_value": 1023112933.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        61433,
+        3
+      ]
+    },
+    "state_value": 1023113617.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        48760,
+        3
+      ]
+    },
+    "state_value": 1023114301.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99069,
+        7
+      ]
+    },
+    "state_value": 1023114970.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25529,
+        6
+      ]
+    },
+    "state_value": 1023115544.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        74254,
+        4
+      ]
+    },
+    "state_value": 1023116107.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86908,
+        5
+      ]
+    },
+    "state_value": 1023116645.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        81916,
+        5
+      ]
+    },
+    "state_value": 1023117166.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96366,
+        5
+      ]
+    },
+    "state_value": 1023117687.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90863,
+        6
+      ]
+    },
+    "state_value": 1023118202.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44579,
+        6
+      ]
+    },
+    "state_value": 1023118716.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16664,
+        8
+      ]
+    },
+    "state_value": 1023119222.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72941,
+        7
+      ]
+    },
+    "state_value": 1023180283.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        67079,
+        2
+      ]
+    },
+    "state_value": 1023220802.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101572,
+        7
+      ]
+    },
+    "state_value": 1023280515.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16702,
+        6
+      ]
+    },
+    "state_value": 1023287359.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        74272,
+        7
+      ]
+    },
+    "state_value": 1023291236.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        20866,
+        8
+      ]
+    },
+    "state_value": 1023294764.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        20821,
+        6
+      ]
+    },
+    "state_value": 1023298006.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97319,
+        8
+      ]
+    },
+    "state_value": 1023300828.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        12869,
+        6
+      ]
+    },
+    "state_value": 1023303236.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        69550,
+        7
+      ]
+    },
+    "state_value": 1023304810.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57759,
+        7
+      ]
+    },
+    "state_value": 1023306102.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51827,
+        8
+      ]
+    },
+    "state_value": 1023307239.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        91399,
+        4
+      ]
+    },
+    "state_value": 1023308226.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16672,
+        5
+      ]
+    },
+    "state_value": 1023309074.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        57716,
+        5
+      ]
+    },
+    "state_value": 1023309638.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        18077,
+        1
+      ]
+    },
+    "state_value": 1023310138.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        49011,
+        6
+      ]
+    },
+    "state_value": 1023310612.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86888,
+        7
+      ]
+    },
+    "state_value": 1023311082.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90964,
+        4
+      ]
+    },
+    "state_value": 1023311551.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        20801,
+        7
+      ]
+    },
+    "state_value": 1023311982.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        4656,
+        0
+      ]
+    },
+    "state_value": 1023312410.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44460,
+        7
+      ]
+    },
+    "state_value": 1023312808.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        21004,
+        4
+      ]
+    },
+    "state_value": 1023313202.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90625,
+        4
+      ]
+    },
+    "state_value": 1023313577.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73792,
+        4
+      ]
+    },
+    "state_value": 1023313953.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108490,
+        8
+      ]
+    },
+    "state_value": 1023314328.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        111302,
+        5
+      ]
+    },
+    "state_value": 1023436877.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        809,
+        8
+      ]
+    },
+    "state_value": 1023437251.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        67079,
+        6
+      ]
+    },
+    "state_value": 1023437612.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        50905,
+        5
+      ]
+    },
+    "state_value": 1023437970.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90528,
+        5
+      ]
+    },
+    "state_value": 1023438328.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        481,
+        6
+      ]
+    },
+    "state_value": 1023438684.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        35556,
+        5
+      ]
+    },
+    "state_value": 1023439026.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        101458,
+        3
+      ]
+    },
+    "state_value": 1023439368.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90862,
+        6
+      ]
+    },
+    "state_value": 1023439702.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        31369,
+        7
+      ]
+    },
+    "state_value": 1023440029.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93870,
+        7
+      ]
+    },
+    "state_value": 1023440357.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        42310,
+        6
+      ]
+    },
+    "state_value": 1023440683.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16321,
+        1
+      ]
+    },
+    "state_value": 1023441008.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73810,
+        8
+      ]
+    },
+    "state_value": 1023441318.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        43933,
+        7
+      ]
+    },
+    "state_value": 1023496701.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78568,
+        8
+      ]
+    },
+    "state_value": 1023497407.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        68661,
+        8
+      ]
+    },
+    "state_value": 1023498113.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86230,
+        7
+      ]
+    },
+    "state_value": 1023498409.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        52416,
+        8
+      ]
+    },
+    "state_value": 1023498697.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        107077,
+        6
+      ]
+    },
+    "state_value": 1023591053.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        32458,
+        8
+      ]
+    },
+    "state_value": 1023592606.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        39009,
+        8
+      ]
+    },
+    "state_value": 1023594158.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        64282,
+        8
+      ]
+    },
+    "state_value": 1023594975.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        39221,
+        8
+      ]
+    },
+    "state_value": 1023595751.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        58681,
+        8
+      ]
+    },
+    "state_value": 1023596092.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99265,
+        6
+      ]
+    },
+    "state_value": 1023687496.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38794,
+        5
+      ]
+    },
+    "state_value": 1023687778.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25935,
+        5
+      ]
+    },
+    "state_value": 1023688061.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51136,
+        4
+      ]
+    },
+    "state_value": 1023688343.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        79026,
+        4
+      ]
+    },
+    "state_value": 1023688624.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94227,
+        5
+      ]
+    },
+    "state_value": 1023688890.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51137,
+        6
+      ]
+    },
+    "state_value": 1023689147.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94157,
+        6
+      ]
+    },
+    "state_value": 1023689404.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90837,
+        6
+      ]
+    },
+    "state_value": 1023689661.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90511,
+        6
+      ]
+    },
+    "state_value": 1023689917.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        63314,
+        6
+      ]
+    },
+    "state_value": 1023690175.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90527,
+        6
+      ]
+    },
+    "state_value": 1023690432.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44609,
+        7
+      ]
+    },
+    "state_value": 1023690676.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        72442,
+        2
+      ]
+    },
+    "state_value": 1023690914.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86085,
+        2
+      ]
+    },
+    "state_value": 1023691153.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        93345,
+        7
+      ]
+    },
+    "state_value": 1023691386.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        8338,
+        6
+      ]
+    },
+    "state_value": 1023691619.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97041,
+        7
+      ]
+    },
+    "state_value": 1023691831.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        32569,
+        7
+      ]
+    },
+    "state_value": 1023692043.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44915,
+        3
+      ]
+    },
+    "state_value": 1023692250.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        69146,
+        3
+      ]
+    },
+    "state_value": 1023692456.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        103848,
+        4
+      ]
+    },
+    "state_value": 1023692654.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83065,
+        4
+      ]
+    },
+    "state_value": 1023692841.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90547,
+        4
+      ]
+    },
+    "state_value": 1023693029.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        45110,
+        5
+      ]
+    },
+    "state_value": 1023693208.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        50958,
+        5
+      ]
+    },
+    "state_value": 1023693387.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90936,
+        5
+      ]
+    },
+    "state_value": 1023693567.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38229,
+        5
+      ]
+    },
+    "state_value": 1023693746.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83242,
+        5
+      ]
+    },
+    "state_value": 1023693925.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        100211,
+        6
+      ]
+    },
+    "state_value": 1023694080.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        97045,
+        6
+      ]
+    },
+    "state_value": 1023694235.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108512,
+        7
+      ]
+    },
+    "state_value": 1023694383.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        96777,
+        7
+      ]
+    },
+    "state_value": 1023694532.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        29876,
+        7
+      ]
+    },
+    "state_value": 1023694679.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        87249,
+        7
+      ]
+    },
+    "state_value": 1023694820.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51084,
+        7
+      ]
+    },
+    "state_value": 1023694962.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        79763,
+        7
+      ]
+    },
+    "state_value": 1023695103.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        3814,
+        3
+      ]
+    },
+    "state_value": 1023695230.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        155,
+        4
+      ]
+    },
+    "state_value": 1023695349.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        268,
+        5
+      ]
+    },
+    "state_value": 1023695464.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        77213,
+        2
+      ]
+    },
+    "state_value": 1023695577.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        77332,
+        6
+      ]
+    },
+    "state_value": 1023695686.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90911,
+        4
+      ]
+    },
+    "state_value": 1023695780.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44599,
+        4
+      ]
+    },
+    "state_value": 1023695874.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        16312,
+        5
+      ]
+    },
+    "state_value": 1023695968.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38030,
+        4
+      ]
+    },
+    "state_value": 1023696061.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        51172,
+        4
+      ]
+    },
+    "state_value": 1023696155.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86970,
+        4
+      ]
+    },
+    "state_value": 1023696249.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94226,
+        4
+      ]
+    },
+    "state_value": 1023696344.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44665,
+        4
+      ]
+    },
+    "state_value": 1023696438.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        78924,
+        4
+      ]
+    },
+    "state_value": 1023696532.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94203,
+        4
+      ]
+    },
+    "state_value": 1023696626.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86929,
+        4
+      ]
+    },
+    "state_value": 1023696719.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        83003,
+        4
+      ]
+    },
+    "state_value": 1023696813.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82854,
+        4
+      ]
+    },
+    "state_value": 1023696907.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        82919,
+        5
+      ]
+    },
+    "state_value": 1023696992.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        45675,
+        5
+      ]
+    },
+    "state_value": 1023697077.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        29019,
+        5
+      ]
+    },
+    "state_value": 1023697163.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99593,
+        6
+      ]
+    },
+    "state_value": 1023697241.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86208,
+        6
+      ]
+    },
+    "state_value": 1023697319.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        99577,
+        6
+      ]
+    },
+    "state_value": 1023697397.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        32019,
+        6
+      ]
+    },
+    "state_value": 1023697475.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        38743,
+        6
+      ]
+    },
+    "state_value": 1023697551.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        67540,
+        6
+      ]
+    },
+    "state_value": 1023697629.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        86167,
+        6
+      ]
+    },
+    "state_value": 1023697707.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        12841,
+        3
+      ]
+    },
+    "state_value": 1023697780.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94115,
+        7
+      ]
+    },
+    "state_value": 1023697851.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        69952,
+        7
+      ]
+    },
+    "state_value": 1023697921.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        94092,
+        7
+      ]
+    },
+    "state_value": 1023697993.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        64519,
+        7
+      ]
+    },
+    "state_value": 1023698063.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        58530,
+        7
+      ]
+    },
+    "state_value": 1023698133.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108294,
+        7
+      ]
+    },
+    "state_value": 1023698204.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        64095,
+        7
+      ]
+    },
+    "state_value": 1023698274.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        105731,
+        7
+      ]
+    },
+    "state_value": 1023698345.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90884,
+        7
+      ]
+    },
+    "state_value": 1023698416.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90834,
+        7
+      ]
+    },
+    "state_value": 1023698487.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        108356,
+        7
+      ]
+    },
+    "state_value": 1023698557.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        90587,
+        4
+      ]
+    },
+    "state_value": 1023698619.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        12818,
+        4
+      ]
+    },
+    "state_value": 1023698681.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37899,
+        6
+      ]
+    },
+    "state_value": 1023698735.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        20698,
+        1
+      ]
+    },
+    "state_value": 1023698786.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44852,
+        2
+      ]
+    },
+    "state_value": 1023698991.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        44643,
+        4
+      ]
+    },
+    "state_value": 1023699038.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        37926,
+        7
+      ]
+    },
+    "state_value": 1023699068.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        25546,
+        6
+      ]
+    },
+    "state_value": 1023699095.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        73852,
+        4
+      ]
+    },
+    "state_value": 1023699100.0,
+    "geom_penalty": 0.0
+  },
+  {
+    "mine": 0,
+    "pert": {
+      "Unit": [
+        81895,
+        5
+      ]
+    },
+    "state_value": 1023699105.0,
+    "geom_penalty": 0.0
+  }
+]
