@@ -1,7 +1,9 @@
 use proc_macro::TokenStream;
 use syn::{DeriveInput, parse_macro_input};
+mod add_assign;
 mod expand_block_delta;
 
+use add_assign::derive_add_assign;
 use expand_block_delta::expand_block_delta;
 
 /// Implements `add_block` and `sub_block` methods for the annotated struct.
@@ -70,4 +72,9 @@ pub fn derive_block_delta(input: TokenStream) -> TokenStream {
         Ok(tokens) => tokens.into(),
         Err(err) => err.to_compile_error().into(),
     }
+}
+
+#[proc_macro_derive(AddAssign)]
+pub fn derive_add_assign_macro(input: TokenStream) -> TokenStream {
+    derive_add_assign(input)
 }

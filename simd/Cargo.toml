@@ -1,0 +1,10 @@
+[package]
+name = "simd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+simd-derive = { path = "../simd-derive" }
+itertools = "0.14.0"
+wide = "1.1.1"
+pulp = "0.21.4"

@@ -4,8 +4,8 @@ use std::{
 };
 
 use itertools::izip;
-use proc::{impl_binary_op, impl_binary_op_mut, impl_unary_op};
 use pulp::Simd;
+use simd_derive::{impl_binary_op, impl_binary_op_mut, impl_unary_op};
 use wide::{CmpGt, CmpLt};
 
 pub mod cross;
@@ -218,7 +218,7 @@ impl<T, V> WideUB<T, V> {
 impl_unary_op!(WideUB<__T__,__T__>,
 |a: __FT__| {
     let ub = __FT__::from(self.ub);
-    let mask = a.cmp_gt(ub);
+    let mask = a.simd_gt(ub);
     (a-ub)&mask
 
 },
@@ -246,7 +246,7 @@ impl<T, V> WideLB<T, V> {
 impl_unary_op!(WideLB<__T__,__T__>,
 |a: __FT__| {
     let lb = __FT__::from(self.lb);
-    let mask = a.cmp_lt(lb);
+    let mask = a.simd_lt(lb);
     (lb - a)&mask
 
 },
