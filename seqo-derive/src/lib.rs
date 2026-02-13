@@ -2,6 +2,7 @@ use proc_macro::TokenStream;
 use syn::{DeriveInput, parse_macro_input};
 mod add_assign;
 mod expand_block_delta;
+mod state_logger;
 
 use add_assign::derive_add_assign;
 use expand_block_delta::expand_block_delta;
@@ -77,4 +78,9 @@ pub fn derive_block_delta(input: TokenStream) -> TokenStream {
 #[proc_macro_derive(AddAssign)]
 pub fn derive_add_assign_macro(input: TokenStream) -> TokenStream {
     derive_add_assign(input)
+}
+
+#[proc_macro_attribute]
+pub fn seqo_log(attr: TokenStream, item: TokenStream) -> TokenStream {
+    state_logger::seqo_log(attr, item)
 }

@@ -2,9 +2,10 @@ use log::info;
 use mimalloc::MiMalloc;
 use rand::Rng;
 use seqo::{init_opt_logger, prelude::*};
-use seqo_derive::{AddAssign, BlockDelta};
+use seqo_derive::{AddAssign, BlockDelta, seqo_log};
 
-const MINE_LIFE: u8 = 9;
+/// Number of periods in the McLaughlin mine scheduling problem.
+const MINE_LIFE: u8 = 8;
 
 /// Use mimalloc as the global allocator for better performance.
 #[global_allocator]
@@ -39,22 +40,36 @@ pub struct MclaughlinAggregateSummary {
     pub udisc_value: i32,
 }
 
-type MclaughlinPeriodSummary = ArrayState<{ MINE_LIFE as usize }, MclaughlinAggregateSummary>;
+/// In this example, we use an array-based state summary since the mine life is known and small.
+///
+/// We add one extra period to the state summary because unmined material is stored in period `MINE_LIFE`.
+type MclaughlinPeriodSummary = ArrayState<{ MINE_LIFE as usize + 1 }, MclaughlinAggregateSummary>;
+
+/// Type alias for the McLaughlin mine using the default mine structure.
 type MclaughlinMine = DefaultMine<MclaughlinBlock>;
 
+/// Objective function for the McLaughlin mine scheduling problem.
 #[derive(Clone)]
 pub struct MclaughlinObjectiveFunction {
+    /// Lower bound on ore tonnage per period.
     pub ore_lb: i64,
+    /// Upper bound on ore tonnage per period.
     pub ore_ub: i64,
+    /// Penalty per unit of ore tonnage outside the bounds.
     pub ore_delta_penalty: i64,
 
+    /// Lower bound on total tonnage per period.
     pub total_lb: i64,
+    /// Upper bound on total tonnage per period.
     pub total_ub: i64,
+    /// Penalty per unit of total tonnage outside the bounds.
     pub total_delta_penalty: i64,
 
+    /// Discount factors for each period.
     pub discounts: Vec<f64>,
 }
 
+/// Helper function to compute lower bound penalty.
 #[inline(always)]
 fn lb_penalty(value: i64, lb: i64, penalty_per_unit: i64) -> i64 {
     if value < lb {
@@ -64,6 +79,7 @@ fn lb_penalty(value: i64, lb: i64, penalty_per_unit: i64) -> i64 {
     }
 }
 
+/// Helper function to compute upper bound penalty.
 #[inline(always)]
 fn ub_penalty(value: i64, ub: i64, penalty_per_unit: i64) -> i64 {
     if value > ub {
@@ -73,7 +89,15 @@ fn ub_penalty(value: i64, ub: i64, penalty_per_unit: i64) -> i64 {
     }
 }
 
+/// Implement the objective function trait for the McLaughlin objective function.
+///
+/// This implementation calculates the total objective value based on the period summaries,
+/// applying penalties for ore and total tonnage that fall outside specified bounds.
+///
+/// `#[seqo_log]` attribute is used to automatically generate logging for the state value computation.
+#[seqo_log]
 impl GenericObjectiveFunction<MclaughlinPeriodSummary> for MclaughlinObjectiveFunction {
+    /// This example doesn't require any workspace.
     type WorkSpace = ();
 
     fn state_value(
@@ -81,44 +105,68 @@ impl GenericObjectiveFunction<MclaughlinPeriodSummary> for MclaughlinObjectiveFu
         state: &MclaughlinPeriodSummary,
         _workspace: &mut Self::WorkSpace,
     ) -> f64 {
+        // 1. Initialize output value.
         let mut out = 0;
 
-        for i in 0..MINE_LIFE - 1 {
+        // 2. Iterate over each period to compute contributions to the objective value.
+        for i in 0..MINE_LIFE {
+            // a. Retrieve the summary for the current period.
             let summary = &state.periods[i as usize];
+
+            // b. Get the discount factor for the current period.
             let discount = self.discounts[i as usize];
 
+            slog!(
+                ty = i64,
+                field = ore_tonnage,
+                expr = summary.ore_tonnage as i64
+            );
+            slog!(
+                ty = i64,
+                field = total_tonnage,
+                expr = summary.total_tonnage as i64
+            );
+
+            // c. Calculate penalties for ore and total tonnage bounds.
             let ore_lb_penalty = lb_penalty(
                 summary.ore_tonnage as i64,
                 self.ore_lb,
                 self.ore_delta_penalty,
             );
+            slog!(ty = i64, expr = ore_lb_penalty);
 
             let ore_ub_penalty = ub_penalty(
                 summary.ore_tonnage as i64,
                 self.ore_ub,
                 self.ore_delta_penalty,
             );
+            slog!(ty = i64, expr = ore_ub_penalty);
 
             let total_lb_penalty = lb_penalty(
                 summary.total_tonnage as i64,
                 self.total_lb,
                 self.total_delta_penalty,
             );
+            slog!(ty = i64, expr = total_lb_penalty);
 
             let total_ub_penalty = ub_penalty(
                 summary.total_tonnage as i64,
                 self.total_ub,
                 self.total_delta_penalty,
             );
+            slog!(ty = i64, expr = total_ub_penalty);
 
+            // d. Update the output value with the discounted contribution from the current period.
             out += ((summary.udisc_value as i64
                 - ore_lb_penalty
                 - ore_ub_penalty
                 - total_lb_penalty
                 - total_ub_penalty) as f64
-                * discount) as i64
+                * discount) as i64;
+            slog!(ty = i64, expr = out);
         }
 
+        // 3. Return the final computed objective value.
         out as f64
     }
 }
@@ -195,7 +243,7 @@ fn main() {
     info!("Creating single-mine wrapper...");
     let mut gmine = SingleMine::<_, MclaughlinPeriodSummary, _, _>::new(
         &mine,
-        MINE_LIFE - 1,
+        MINE_LIFE,
         (), // No geometric constraints in example.
         perts.iter().copied(),
         (),                       // No extra context needed in example.
@@ -204,10 +252,12 @@ fn main() {
 
     // 8. Create the multi-mine scheduler.
     info!("Creating scheduler...");
-    let mut grasp_scheduler =
-        MultiMineScheduleOptimizer::new((&mut gmine,), of.clone(), MINE_LIFE - 1);
+    let mut grasp_scheduler = MultiMineScheduleOptimizer::new((&mut gmine,), of.clone(), MINE_LIFE);
 
     // 9. Optimize the schedule.
     info!("Optimizing schedule...");
     grasp_scheduler.optimize(10000, None);
+
+    let logged_final_state = StateSummary::new(&of, grasp_scheduler.state_summary(), &mut ());
+    println!("{:#?}", logged_final_state);
 }

@@ -36,12 +36,14 @@ pub fn derive_add_assign(input: TokenStream) -> TokenStream {
 
     let expanded = quote! {
         impl std::ops::AddAssign for #name {
+            #[inline(always)]
             fn add_assign(&mut self, rhs: Self) {
                 #(#add_assigns1)*
             }
         }
 
         impl std::ops::AddAssign<&#name> for #name {
+            #[inline(always)]
             fn add_assign(&mut self, rhs: &Self) {
                 #(#add_assigns2)*
             }

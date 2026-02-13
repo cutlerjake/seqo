@@ -174,6 +174,7 @@ impl<T: PerturbationSummary> AggregatePerturbation<T> {
 
         // 2. Apply each perturbation sequentially.
         let mut cnt = 0;
+        let mut double_cnt = 0;
         for pert in &mut self.unit_perts {
             // a. For each perturbation, define a function to get the current period of a block.
             let curr_sched_fn = |b: u32| mappable_sched[b as usize];
@@ -192,6 +193,10 @@ impl<T: PerturbationSummary> AggregatePerturbation<T> {
                     self.delta_summary.add_block(pert.period(), block, context);
                     // Record the block index in the buffer.
                     buffer.push(block_idx);
+                    // Keep track of blocks that have been previously changes by this perturbation.
+                    double_cnt += (curr_sched[block_idx as usize]
+                        != mappable_sched[block_idx as usize])
+                        as u32;
                 },
             );
 
@@ -206,7 +211,7 @@ impl<T: PerturbationSummary> AggregatePerturbation<T> {
         buffer.retain(|i| mappable_sched[*i as usize] != curr_sched[*i as usize]);
 
         // 4. Update the block count.
-        self.block_cnt = buffer.len();
+        self.block_cnt = buffer.len() - double_cnt as usize;
     }
 
     /// Applies this aggregate perturbation to the provided schedule, updating the schedule in place.
